@@ -43,5 +43,5 @@ bool isBalanced(const std::string &text){
   {
 	  return true;
   }
-  return false
+  return false;
 }
