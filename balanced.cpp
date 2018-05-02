@@ -4,6 +4,7 @@
 // Returns true if the parenthesis,
 //  square brackets, and curly braces
 //  in text are balanced
+
 bool isBalanced(const std::string &text){
 
   char c;
